@@ -3,6 +3,9 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Learning About Markdown in Astro'
 author: Astro Learner
 pubDate: 2022-08-08
+image:
+  url: 'https://docs.astro.build/assets/rose.webp'
+  alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ['astro', 'blogging', 'learning in public']
 ---
 
